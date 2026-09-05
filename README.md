@@ -133,7 +133,6 @@ The output of this process is the document **"MuscleMind: Integral Feasibility A
 | `POSTER17_MuscleMind.pdf` | Presentation poster for the Ingenia Futuro 2026-1S Meeting. |
 | `MuscleMind_Brochure.pdf` | Informational brochure written in non-technical language about the problem and the proposed solution. |
 
-> 💡 *Tip: if you're uploading these files, consider organizing them under a `/docs` folder and linking them from here.*
 
 ---
 
